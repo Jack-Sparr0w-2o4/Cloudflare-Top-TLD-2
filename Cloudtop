@@ -112,13 +112,6 @@
 0.0.0.0 dnsc.nic.you
 0.0.0.0 dnsd.nic.you
 0.0.0.0 you
-0.0.0.0 v0n0.nic.codes
-0.0.0.0 v0n1.nic.codes
-0.0.0.0 v0n2.nic.codes
-0.0.0.0 v0n3.nic.codes
-0.0.0.0 v2n0.nic.codes
-0.0.0.0 v2n1.nic.codes
-0.0.0.0 codes
 0.0.0.0 a.nic.dhl
 0.0.0.0 b.nic.dhl
 0.0.0.0 c.nic.dhl
