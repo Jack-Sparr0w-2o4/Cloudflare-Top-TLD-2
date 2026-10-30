@@ -358,3 +358,13 @@
 0.0.0.0 v2n0.nic.business
 0.0.0.0 v2n1.nic.business
 0.0.0.0 business
+0.0.0.0 a.nic.cfd
+0.0.0.0 b.nic.cfd
+0.0.0.0 c.nic.cfd
+0.0.0.0 d.nic.cfd
+0.0.0.0 cfd
+0.0.0.0 ns01.trs-dns.com
+0.0.0.0 ns01.trs-dns.net
+0.0.0.0 ns10.trs-dns.info
+0.0.0.0 ns10.trs-dns.org
+0.0.0.0 rest
