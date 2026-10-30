@@ -351,3 +351,10 @@
 0.0.0.0 v2n0.nic.community
 0.0.0.0 v2n1.nic.community
 0.0.0.0 community
+0.0.0.0 v0n0.nic.business
+0.0.0.0 v0n1.nic.business
+0.0.0.0 v0n2.nic.business
+0.0.0.0 v0n3.nic.business
+0.0.0.0 v2n0.nic.business
+0.0.0.0 v2n1.nic.business
+0.0.0.0 business
