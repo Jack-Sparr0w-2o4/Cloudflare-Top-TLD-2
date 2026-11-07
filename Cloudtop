@@ -369,3 +369,10 @@
 0.0.0.0 ns10.trs-dns.org
 0.0.0.0 rest
 0.0.0.0 elf.mirai
+0.0.0.0 v0n0.nic.management
+0.0.0.0 v0n1.nic.management
+0.0.0.0 v0n2.nic.management
+0.0.0.0 v0n3.nic.management
+0.0.0.0 v2n0.nic.management
+0.0.0.0 v2n1.nic.management
+0.0.0.0 management
